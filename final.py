@@ -169,5 +169,5 @@ ngrok.connect(port='8501')
 # if(st.button('Predict')):
 #     st.write(result[0])
 
-!streamlit run ML_APP.py
+!streamlit run ML_APP.py  
 
