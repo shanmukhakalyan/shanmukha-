@@ -3,6 +3,6 @@ numpy
 matplotlib
 nltk
 sklearn
- wordcloud
- streamlit
- PIL
+streamlit
+pyngrok
+PIL
